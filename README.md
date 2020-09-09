@@ -1,2 +1,2 @@
-# hwork2-tic-tac-toe
+# hwork1-tic-tac-toe
 Created with CodeSandbox
